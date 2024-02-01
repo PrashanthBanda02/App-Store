@@ -1,0 +1,23 @@
+.app {
+  height: 100px;
+  width: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: white;
+  margin: 10px;
+  border-radius: 8px;
+}
+
+.app-icon {
+  height: 50px;
+  width: 50px;
+  margin: 5px;
+}
+
+.app-name {
+  font-size: 10px;
+  text-align: center;
+  font-weight: bold;
+}
